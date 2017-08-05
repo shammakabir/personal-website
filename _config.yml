@@ -1,0 +1,57 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: shamma kabir
+description: |
+  hi, welcome to my world!
+owner: Shamma Kabir # or company name
+first_published: 2017 # if migrating another site, the year of your first publish
+email: shammakabir@utexas.edu
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "shammakabir.com" # the base hostname & protocol for your site
+social:
+  #twitter: https://twitter.com/<username>
+  github: https://github.com/shammakabir
+  linkedin-square: https://www.linkedin.com/in/shamma-kabir-a30165105/
+  facebook-official: https://www.facebook.com/shammaakabirr
+  #google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: shammakabir@utexas.edu
+  #flickr:
+  instagram: instagram.com/barack_oshamma
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
